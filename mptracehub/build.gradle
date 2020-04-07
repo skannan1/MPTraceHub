@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.adroind_maven'
-apply plugin: 'com.github.skannan1'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.skannan1'
 
 android {
     compileSdkVersion 29
